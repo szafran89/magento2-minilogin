@@ -1,1 +1,1 @@
-"# magento2-minilogin" 
+Mini login for magento2
