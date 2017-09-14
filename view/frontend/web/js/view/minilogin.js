@@ -54,7 +54,7 @@ define([
                 && $(loginForm).validation('isValid')
             ) {
                 this.isLoading(true);
-                loginAction(loginData, null, false);
+                loginAction(loginData);
             }
         },
         forgotpwd: function(theForm) {
